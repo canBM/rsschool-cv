@@ -1,5 +1,5 @@
 # Matthew Bortsov
-![Matthew Bortsov - Junior Dev](/Photo/myself.jpg)
+![Matthew Bortsov - Junior Dev](/Photo/myself.jpg =250x)
 
 
 ## Summary
