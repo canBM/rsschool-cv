@@ -1,5 +1,5 @@
 # Matthew Bortsov
-![Matthew Bortsov - Junior Dev](https://vk.com/bortsov_matwey?z=photo111098962_457288701%2Falbum111098962_0%2Frev)
+![Matthew Bortsov - Junior Dev](/rsschool-cv/Photo/z.jpg)
 
 
 ## Summary
