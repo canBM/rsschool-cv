@@ -1,5 +1,5 @@
 # Matthew Bortsov
-![Matthew Bortsov - Junior Dev](/rsschool-cv/Photo/z.jpg)
+![Matthew Bortsov - Junior Dev](/Photo/myself.jpg)
 
 
 ## Summary
