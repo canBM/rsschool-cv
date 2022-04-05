@@ -1,6 +1,8 @@
 # Matthew Bortsov
 <img alt='Matthew Bortsov - Junior Dev' src="/Photo/myself.jpg" width="200" height="200" />
 
+![Matthew Bortsov - Junior Dev](/Photo/myself.jpg)
+
 
 ## Summary
 My experience in marketing is 6 years. I studied it from the business side and from the client side. One day I had the opportunity to create a website. I wanted to learn more about creating websites and therefore did not contact the developer, but decided to make website myself. Since the site needed a static one, I made it on CMS Tilda - very convenient and focused on increasing the conversion of the site.
