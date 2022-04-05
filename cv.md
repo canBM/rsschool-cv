@@ -42,14 +42,21 @@ Web Developer skills:
 
 **Junior Dev**
 
+Randome number
+
+[]()
+[GitHub project](https://github.com/canBM/randome-number.git)
+
+[The first project using HTML and CSS](https://canbm.github.io/myfirstprogect.github.io/)
+[github project](https://github.com/canBM/myfirstprogect.github.io.git)
 
 **MARKETING SPECIALIST & WEB DEVELOPER**, 08/2016 - 04/2022
 *Triton vehicle service*, Saint-Petersburg, SP
 
 **My work:**
-1. [web site Triton vehicle service] (https://tritoncarwash.ru/)
-2. [web site Ares tyrefitting] (https://aresshina.ru/)
-3. [web site Zeus detailig] (https://zeusdetailing.ru/)
+1. [web site Triton vehicle service](https://tritoncarwash.ru/)
+2. [web site Ares tyrefitting](https://aresshina.ru/)
+3. [web site Zeus detailig](https://zeusdetailing.ru/)
 
 **Marketing specialist:**
 • Targeted customers for campaigns and identied appropriate marketing channels.
@@ -76,11 +83,9 @@ Created and edited website design assets using **Adobe Photoshop and Figma.**
 • Tested work to check functionality, identify bugs and correct issues.
 
 **Other work on CMS:**
-[web site for real estate](https://jk-telezhnaya.ru);
-
-[web site for real estate](https://gc-renovaciya.ru);
-
-[online store for cosmetics](https://kambeauty.ru/);
+1. [web site for real estate](https://jk-telezhnaya.ru);
+2. [web site for real estate](https://gc-renovaciya.ru);
+3. [online store for cosmetics](https://kambeauty.ru/);
 
 
 ## EDUCATION & TRAINING
