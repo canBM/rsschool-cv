@@ -42,12 +42,14 @@ Web Developer skills:
 
 **Junior Dev**
 
-Randome number
+Random number with use JavaScript and HTML:
 
-[]()
 [GitHub project](https://github.com/canBM/randome-number.git)
 
+The main block for the Computer Assembly site:
+
 [The first project using HTML and CSS](https://canbm.github.io/myfirstprogect.github.io/)
+
 [github project](https://github.com/canBM/myfirstprogect.github.io.git)
 
 **MARKETING SPECIALIST & WEB DEVELOPER**, 08/2016 - 04/2022
