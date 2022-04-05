@@ -1,5 +1,4 @@
 # Matthew Bortsov
-<img alt='Matthew Bortsov - Junior Dev' src="/Photo/myself.jpg" width="200" height="200" />
 
 ![Matthew Bortsov - Junior Dev](/Photo/myself.jpg)
 
